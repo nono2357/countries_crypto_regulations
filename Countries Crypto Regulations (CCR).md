@@ -98,7 +98,7 @@ Unlisted countries are not affected by any of the listed regulations.
 
 **Notes**:
 
-- CARF MCAA CRS (*Crypto-Asset Reporting Framework - Multilateral Competent Authority Agreement - Common Reporting Standard*): date of initial data collection (one year before data reporting)
-- DAC 8 (*8th amendment in the Directive on Administrative Cooperation*)
-- MiCA (*Markets in Crypto-Assets regulation*) / Travel Rule 
-- OECD (*Organisation for Economic Co-operation and Development*): may adopt CARF in a near future
+- CARF CRS MCAA (*Crypto-Asset Reporting Framework - Common Reporting Standard - Multilateral Competent Authority Agreement*): https://www.oecd.org/en/topics/international-standards-on-tax-transparency.html 👉 date of initial data collection (one year before data reporting)
+- DAC 8 (*8th amendment in the Directive on Administrative Cooperation*): https://taxation-customs.ec.europa.eu/taxation/tax-transparency-cooperation/administrative-co-operation-and-mutual-assistance/directive-administrative-cooperation-dac/dac8_en 
+- MiCA (*Markets in Crypto-Assets regulation*) / Travel Rule: https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
+- OECD (*Organisation for Economic Co-operation and Development*): https://www.oecd.org/ 👉 may adopt CARF in a near future

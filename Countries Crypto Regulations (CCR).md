@@ -6,8 +6,7 @@ Feel free to contact/PR for any update/missing information
 
 License CC BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-
-**Last update: 2025/12/08**
+**Last update: 2025/12/09**
 
 Unlisted countries are not affected by any of the listed regulations.
 
@@ -40,6 +39,7 @@ Unlisted countries are not affected by any of the listed regulations.
 |    🔴    |          Faroe Islands           |          FO           |                                  |        -         |         2026         |  -   |
 |    🔴    |             Finland              |          FI           |               Euro               |        X         |         2026         |  X   |
 |    🔴    |              France              |          FR           |               Euro               |        X         |         2026         |  X   |
+|    🟡    |             Georgia              |          GE           |                                  |        -         | planned with no date |  -   |
 |    🔴    |             Germany              |          DE           |               Euro               |        X         |         2026         |  X   |
 |    🔴    |            Gibraltar             |          GI           |                                  |        -         |         2026         |  -   |
 |    🔴    |              Greece              |          GR           |               Euro               |        X         |         2026         |  X   |
@@ -65,6 +65,7 @@ Unlisted countries are not affected by any of the listed regulations.
 |    🔴    |              Malta               |          MT           |               Euro               |        X         |         2026         |  -   |
 |    🔴    |            Mauritius             |          MU           |                                  |        -         |         2027         |  -   |
 |    🔴    |              Mexico              |          MX           |        Mexican peso (MXN)        |        -         |         2027         |  X   |
+|    🔴    |              Monaco              |          MC           |               Euro               |        -         |         2025         |  -   |
 |    🔴    |             Mongolia             |          MN           |                                  |        -         |         2027         |  -   |
 |    🔴    |        Netherlands (the)         |          NL           |               Euro               |        X         |         2026         |  X   |
 |    🔴    |           New Zealand            |          NZ           |                                  |        -         |         2026         |  X   |

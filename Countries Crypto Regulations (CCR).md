@@ -72,7 +72,7 @@ Unlisted countries are not affected by any of the listed regulations.
 |    🔴    |              Norway              |          NO           |                                  |        -         |         2026         |  X   |
 |    🔴    |              Panama              |          PA           | Balboa (PAB)<br/>US dollar (USD) |        -         |         2027         |  -   |
 |    🔴    |        Philippines (the)         |          PH           |                                  |        -         |         2027         |  -   |
-|    🔴    |              Poland              |          PL           |                                  |        X         |         2026         |  X   |
+|    🔴    |              Poland              |          PL           |                                  |        ?         |         2026         |  X   |
 |    🔴    |             Portugal             |          PT           |               Euro               |        X         |         2026         |  X   |
 |    🔴    |             Romania              |          RO           |                                  |        X         |         2026         |  -   |
 |    🔴    | Saint Vincent and the Grenadines |          VC           |                                  |        -         |         2027         |  -   |
